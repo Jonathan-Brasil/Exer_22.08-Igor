@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+
+.contaner{
+    background-color: darkgrey;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-right: 0;
+    
+}
+
+h1{
+    background-color: black;
+    color: aliceblue;
+}
+
+p{
+    background-color: black;
+    color: aliceblue;
+    font-size: 30px;
+}
